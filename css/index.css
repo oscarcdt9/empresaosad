@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  li{
+    display: inline;
+    margin: 40px;
+  }
+  a{
+    color: white;
+  }
+  .img1{
+        width: 400px;
+        height: auto;
+        float: left;
+    }
+  .img2{
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-right: -8%;
+  }
+  .img3{
+    width: 6%;
+    height: 6%;
+    float: right;
+  }
+  .img4{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    margin-left: 40%;
+    display: grid;
+  }
+  .derecha{
+    text-align: right;
+    width: 80vw; height: 60vh;
+  }
+  .izquierda{
+    text-align: left;
+    width: 90vw; height: 0vh;
+  }
+  .centro{
+    text-align: center;
+    width: 90vw; height: 0vh;
+  }
+  footer{
+    text-align: center;
+  }
+  .img5{
+  position: absolute;
+  top:95%;
+  left: 1%;
+  }
